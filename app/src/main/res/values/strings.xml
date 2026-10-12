@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CineRecap</string>
+    <string name="tagline">Dramatic Movie Recaps &amp; Audio Narration</string>
+    <string name="input_placeholder">Enter movie title or brief plot summary (e.g., Inception, The Matrix, or Titanic)...</string>
+    <string name="generate_recap">Generate Dramatic Recap</string>
+    <string name="regenerating">Conjuring Epic Recap…</string>
+    <string name="tts_play">Narrate Recap</string>
+    <string name="tts_pause">Pause Audio</string>
+    <string name="tts_resume">Resume Audio</string>
+    <string name="tts_stop">Stop Audio</string>
+    <string name="clear_text">Clear</string>
+    <string name="sample_movies">Popular Cinema Ideas</string>
+</resources>

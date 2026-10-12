@@ -1,0 +1,8 @@
+{
+  "name": "CineRecap",
+  "description": "Dramatic movie recap generator with dynamic text-to-speech audio narration powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
